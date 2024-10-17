@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: 12.SpringBootProject4
+  datasource: 
+    driver-class-name: oracle.jdbc.OracleDriver
+    url: jdbc:oracle:thin:@localhost:1521:orcl
+    username: Tupa
+    password: Kijhocche
